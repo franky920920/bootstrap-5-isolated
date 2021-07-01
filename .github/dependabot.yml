@@ -9,7 +9,7 @@ updates:
       timezone: Europe/Athens
     open-pull-requests-limit: 10
     reviewers:
-      - XhmikosR
+      - franky920920
     labels:
       - dependencies
       - v5
