@@ -110,7 +110,7 @@
     "@rollup/plugin-replace": "^3.0.1",
     "autoprefixer": "^10.4.2",
     "bundlewatch": "^0.3.2",
-    "clean-css-cli": "^5.5.0",
+    "clean-css-cli": "^5.5.2",
     "cross-env": "^7.0.3",
     "eslint": "^8.6.0",
     "eslint-config-xo": "^0.39.0",
